@@ -1,4 +1,4 @@
-# Edwin-Class
+# Edwin-Estructura de datos
 
 Estructuras de Datos: Una Introducción
 Las estructuras de datos son fundamentales en la programación, ya que permiten organizar, almacenar y manipular datos de manera eficiente. Comprender las diferentes ramas de las estructuras de datos es crucial para desarrollar algoritmos efectivos y optimizar el rendimiento de las aplicaciones. A continuación, se presentan las principales categorías de estructuras de datos y sus aplicaciones.
